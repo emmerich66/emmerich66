@@ -7,7 +7,7 @@
     This Project is part of my Udacity Data Scientist Nanodegree. I decided to use the Boston Project, 
     since I lived in Cambridge for a year during my university time.
     
-    The idea was to find a price prediction for most of the data presented by booking
+    The idea was to find a price prediction for most (or representative) of the data presented by Airbnb
     and following the old Real-Estate Wisdom “Location, Location, Location”. 
     The result ist called Two-Step Bed-Price Zipcode Model.
   
