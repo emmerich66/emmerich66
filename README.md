@@ -1,20 +1,15 @@
-- 1) Installations:
+-1) Installations:
      No special installation are necessary, Jupiter Notebook 6.5.4 ist used.
 
-- 2) Motivation:
+-2) Motivation:
   This Project is part of my Udacity Data Scientist Nanodegree. I decided to use the Boston Project, since I lived in Cambridge for a year during my university time.
   The idae was to find a price prediction for most of the data presentaed by booking. Te result ist called Two-Step Bed-Price Zipcode Model
-- 3) File describtion:
+-3) File describtion:
       The basic data used boston_listing.csv and the notebook Boston_two_step_bedprice_zipcode_model.ipynb are available here.
 
 -4 ) Licencing:
     No special Licencing is necessary.
 
-- 5 
-- 👀 I’m interested in Cars, Engines (ICE and BEV)  and Data
-- 🌱 I’m currently learning UDACITY Data Analyst
-
-- 
 
   
 
