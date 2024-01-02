@@ -1,6 +1,6 @@
 -1) Installations:
 
-     No special installation are necessary, Jupiter Notebook 6.5.4 ist used.
+     No special installations are necessary, Jupiter Notebook 6.5.4 ist used.
 
 -2) Motivation for the Two-Step Bed-Price Zipcode Model:
 
