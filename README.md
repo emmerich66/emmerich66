@@ -3,7 +3,10 @@
 
 -2) Motivation:
   This Project is part of my Udacity Data Scientist Nanodegree. I decided to use the Boston Project, since I lived in Cambridge for a year during my university time.
-  The idae was to find a price prediction for most of the data presentaed by booking. Te result ist called Two-Step Bed-Price Zipcode Model
+  The idea was to find a price prediction for most of the data presentaed by booking. 
+
+  The result ist called Two-Step Bed-Price Zipcode Model.
+  
 -3) File describtion:
       The basic data used boston_listing.csv and the notebook Boston_two_step_bedprice_zipcode_model.ipynb are available here.
 
