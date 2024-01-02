@@ -17,7 +17,7 @@
 
 -4 ) Licencing:
   
-    No special licencing is necessary.
+    No special licensing is necessary.
 
 
   
