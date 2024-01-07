@@ -11,7 +11,7 @@
     and following the old Real-Estate Wisdom “Location, Location, Location”. 
     The result ist called Two-Step Bed-Price Zipcode Model.
     
--3) Conclusion (see https://medium.com/@emmerich.weissenbek/the-two-step-boston-bed-price-zip-code-model-de653085a954 )
+-3) Conclusion:
     The result is called "Two-Step Bed-Price Zipcode Model". 
     The model data base is cleaned for outliers (high number of beds, very expensive ones) and low numbers in zip-areas.
     The Zipcode is used instead of the city name, 
@@ -20,6 +20,8 @@
     This combination is following the old Real-Estate Wisdom “Location, Location, Location” quite well and leads to a very good location decision.
     For an appropriate  price prediction the room- and apartment tye information is included in the model. 
     The problem of the wide apartment size (0 to 9 beds, splitted at 3 or 4 beds, since the price per bed decreases) is solved by a two-step model (small and large accommodations). 
+    For more detailed infomation see
+    https://medium.com/@emmerich.weissenbek/the-two-step-boston-bed-price-zip-code-model-de653085a954
   
 -4) File description:
   
