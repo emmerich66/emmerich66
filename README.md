@@ -10,8 +10,18 @@
     The idea was to find a price prediction for most (or representative) of the data presented by Airbnb
     and following the old Real-Estate Wisdom “Location, Location, Location”. 
     The result ist called Two-Step Bed-Price Zipcode Model.
+    
+-3) Conclusion (see https://medium.com/@emmerich.weissenbek/the-two-step-boston-bed-price-zip-code-model-de653085a954 )
+    The result is called "Two-Step Bed-Price Zipcode Model". 
+    The model data base is cleaned for outliers (high number of beds, very expensive ones) and low numbers in zip-areas.
+    The Zipcode is used instead of the city name, 
+    since the zipcode represents a smaller area based on postmen distribution and not on historical city names.
+    In addition, the new parameter "Price per Bed" instead of the total price of the aparment (with a control parameter Beds per Bedrooms > 1) is defined.
+    This combination is following the old Real-Estate Wisdom “Location, Location, Location” quite well and leads to a very good location decision.
+    For an appropriate  price prediction the room- and apartment tye information is included in the model. 
+    The problem of the wide apartment size (0 to 9 beds, splitted at 3 or 4 beds, since the price per bed decreases) is solved by a two-step model (small and large accommodations). 
   
--3) File describtion:
+-4) File description:
   
       The basic data used boston_listing.csv and the notebook Boston_two_step_bedprice_zipcode_model.ipynb are available here.
 
