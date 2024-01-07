@@ -12,6 +12,7 @@
     The result ist called Two-Step Bed-Price Zipcode Model.
     
 -3) Conclusion:
+
     The result is called "Two-Step Bed-Price Zipcode Model". 
     The model data base is cleaned for outliers (high number of beds, very expensive ones) and low numbers in zip-areas.
     The Zipcode is used instead of the city name, 
@@ -27,7 +28,11 @@
   
       The basic data used boston_listing.csv and the notebook Boston_two_step_bedprice_zipcode_model.ipynb are available here.
 
--4 ) Licencing:
+-5 ) Acknowledgements:
+  
+    Thanks to udacity and airbnb for the datasets used in this project.
+
+-6 ) Licencing:
   
     No special licensing is necessary.
 
